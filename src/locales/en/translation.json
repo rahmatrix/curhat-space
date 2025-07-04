@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Serenity AI",
+    "subtitle": "Compassionate Support",
+    "resources": "Resources",
+    "crisisHelp": "Crisis Help",
+    "moodTracker": "Mood Tracker"
+  },
+  "welcome": {
+    "title": "Welcome to Your Safe Space",
+    "intro": "I'm Serenity, your compassionate AI companion. I'm here to listen, support, and provide resources for your emotional wellbeing. This is a judgment-free space where your feelings matter.",
+    "safeAndPrivate": "Safe & Private",
+    "safeAndPrivateDesc": "Your conversations are confidential and secure",
+    "available247": "24/7 Available",
+    "available247Desc": "I'm here whenever you need support",
+    "importantToKnow": "Important to Know",
+    "importantDisclaimer": "I'm an AI assistant designed to provide emotional support and resources. While I'm here to listen and help, I'm not a replacement for professional therapy, medical care, or crisis intervention. If you're experiencing a mental health emergency, please contact emergency services or a crisis hotline immediately.",
+    "readyToStart": "Ready to start? Share what's on your mind, or simply say hello."
+  },
+  "messageInput": {
+    "placeholder": "Share what's on your mind...",
+    "placeholderWelcome": "Hello, I'd like to talk...",
+    "disclaimer": "Serenity AI provides support but is not a replacement for professional therapy or medical care."
+  }
+} 

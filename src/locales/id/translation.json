@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Serenity AI",
+    "subtitle": "Dukungan Penuh Kasih",
+    "resources": "Sumber Daya",
+    "crisisHelp": "Bantuan Krisis",
+    "moodTracker": "Pelacak Suasana Hati"
+  },
+  "welcome": {
+    "title": "Selamat Datang di Ruang Aman Anda",
+    "intro": "Saya Serenity, rekan AI Anda yang penuh kasih. Saya di sini untuk mendengarkan, mendukung, dan menyediakan sumber daya untuk kesehatan emosional Anda. Ini adalah ruang bebas penilaian di mana perasaan Anda berarti.",
+    "safeAndPrivate": "Aman & Pribadi",
+    "safeAndPrivateDesc": "Percakapan Anda bersifat rahasia dan aman",
+    "available247": "Tersedia 24/7",
+    "available247Desc": "Saya di sini kapan pun Anda butuh dukungan",
+    "importantToKnow": "Penting untuk Diketahui",
+    "importantDisclaimer": "Saya adalah asisten AI yang dirancang untuk memberikan dukungan emosional dan sumber daya. Meskipun saya di sini untuk mendengarkan dan membantu, saya bukan pengganti terapi profesional, perawatan medis, atau intervensi krisis. Jika Anda mengalami keadaan darurat kesehatan mental, harap segera hubungi layanan darurat atau hotline krisis.",
+    "readyToStart": "Siap untuk memulai? Bagikan apa yang ada di pikiran Anda, atau sapa saja."
+  },
+  "messageInput": {
+    "placeholder": "Bagikan apa yang ada di pikiranmu...",
+    "placeholderWelcome": "Halo, saya ingin bercerita...",
+    "disclaimer": "Serenity AI memberikan dukungan tetapi bukan pengganti terapi atau perawatan medis profesional."
+  }
+} 
