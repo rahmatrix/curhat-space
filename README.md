@@ -26,5 +26,3 @@
 2. **Install dependencies:**
    ```bash
    npm install
-  # atau
-   yarn
